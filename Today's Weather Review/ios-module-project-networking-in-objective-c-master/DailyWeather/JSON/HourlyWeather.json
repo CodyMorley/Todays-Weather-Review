@@ -1,0 +1,19 @@
+{
+    "time": 1581001200,
+    "summary": "Clear",
+    "icon": "clear-night",
+    "precipProbability": 0.0,
+    "precipType": null,
+    "temperature": 47.68,
+    "apparentTemperature": 46.54,
+    "dewPoint": 41.03,
+    "humidity": 0.78,
+    "pressure": 1022.8,
+    "windSpeed": 3.57,
+    "windGust": 4.74,
+    "windBearing": 36,
+    "cloudCover": 0.03,
+    "uvIndex": 0,
+    "visibility": 10,
+    "ozone": 281.1
+}
