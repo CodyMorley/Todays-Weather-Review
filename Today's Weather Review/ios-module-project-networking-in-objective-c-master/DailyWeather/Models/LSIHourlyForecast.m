@@ -20,7 +20,6 @@
         NSString *icon = dictionary[@"icon"];
         NSNumber *temperature = dictionary[@"temperature"];
         
-        NSNumber *precipIntensity = dictionary[@"precipIntensity"];
         NSNumber *precipProbability = dictionary[@"precipProbability"];
         NSString *precipType = dictionary[@"precipType"];
         
@@ -38,7 +37,6 @@
         _icon = [icon copy];
         _temperature = [temperature doubleValue];
         
-        _precipIntensity = [precipIntensity doubleValue];
         _precipProbability = [precipProbability doubleValue];
         
         if ([precipType isKindOfClass:[NSNull class]]) {

@@ -17,7 +17,6 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy) NSString *icon;
 @property (nonatomic) double temperature;
 
-@property (nonatomic) double precipIntensity;
 @property (nonatomic) double precipProbability;
 @property (nonatomic, nullable, copy) NSString *precipType;
 
